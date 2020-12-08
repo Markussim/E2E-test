@@ -1,0 +1,24 @@
+{
+  "name": "E2E-test",
+  "version": "1.0.0",
+  "description": "Test chat with end to end encryption (hopefully)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markussim/E2E-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Markussim/E2E-test/issues"
+  },
+  "homepage": "https://github.com/Markussim/E2E-test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^3.0.4"
+  }}
